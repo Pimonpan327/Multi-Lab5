@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "traffic-removebg-preview(4)",
+  "identifier": "texture:644693-b7f17b53-0c0a-465f-9c65-b9470c8f2bdd",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "0df3597bda55911ecc0702a0c9593326",
+  "assetLocator": "textures/traffic-removebg-preview(4).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 340,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 89,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "0df3597bda55911ecc0702a0c9593326",
+      "colorCount": 5692,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.060436716312549,
+      "pixelsHigh": 340,
+      "pixelsWide": 89
+    }
+  ]
+}
